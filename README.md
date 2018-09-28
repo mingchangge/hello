@@ -9,4 +9,4 @@
   * 安装react项目依赖 npm install --save-dev react
   * 安装react-dom项目依赖 npm install --save-dev react-dom
   * 安装babel-preset-react项目依赖 npm install --save-dev @babel/preset-react 
-  *最后运行webpack命令可以查看效果。
+  * 最后运行webpack命令可以查看效果。
